@@ -12,26 +12,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mairaj1892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mairaj1892" height="30" width="40" /></a>
-<a href="https://dev.to/dev.icespice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.icespice" height="30" width="40" /></a>
+
+
 <a href="https://twitter.com/icespice1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icespice1122" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairaj1122" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mairaj1122" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mairaj" height="30" width="40" /></a>
-<a href="https://kaggle.com/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mairaj1122" height="30" width="40" /></a>
+
 <a href="https://fb.com/mairaj11122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mairaj11122" height="30" width="40" /></a>
 <a href="https://instagram.com/mairaj.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mairaj.27" height="30" width="40" /></a>
-<a href="https://dribbble.com/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mairaj1122" height="30" width="40" /></a>
-<a href="https://www.behance.net/mj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mj22" height="30" width="40" /></a>
-<a href="https://hashnode.com/mairaj@12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mairaj@12" height="30" width="40" /></a>
-<a href="https://medium.com/mairaj@12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mairaj@12" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/southpaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="southpaw" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chefmairaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chefmairaj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mairaj1122" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mairaj1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mairaj1122" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mj23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mj23" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/southpaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="southpaw" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mairaj1892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mairaj1892" height="30" width="40" /></a>
+</a>
 <a href="https://www.topcoder.com/members/mairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mairaj" height="30" width="40" /></a>
 <a href="https://discord.gg/1892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1892" height="30" width="40" /></a>
 <a href="/https://rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/" height="30" width="40" /></a>
